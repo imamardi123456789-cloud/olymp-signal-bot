@@ -5,8 +5,8 @@ from tradingview_ta import TA_Handler, Interval
 from telegram import Bot
 
 # === KONFIGURASI ===
-TELEGRAM_TOKEN = "ISI_TOKEN_BOT_KAMU_DI_SINI"
-TELEGRAM_CHAT_ID = "ISI_CHAT_ID_KAMU_DI_SINI"
+TELEGRAM_TOKEN = "8326696319:AAHgvMmsgU5hWs3P289jEGJGXYMe339za2w"
+TELEGRAM_CHAT_ID = "1221960413"
 SYMBOL = "EURUSD"  # bisa ganti misal: BTCUSD, GBPUSD, EURJPY
 TIMEFRAME = Interval.INTERVAL_1_MINUTE  # 1 menit
 CHECK_INTERVAL = 60  # detik (cek setiap 1 menit)
