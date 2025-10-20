@@ -7,7 +7,7 @@ from telegram import Bot
 # === KONFIGURASI ===
 TELEGRAM_TOKEN = "8326696319:AAHgvMmsgU5hWs3P289jEGJGXYMe339za2w"
 TELEGRAM_CHAT_ID = "1221960413"
-SYMBOL = "EURUSD"  # bisa ganti misal: BTCUSD, GBPUSD, EURJPY
+SYMBOL = "GBP/USD OTC"  # bisa ganti misal: BTCUSD, GBPUSD, EURJPY
 TIMEFRAME = Interval.INTERVAL_1_MINUTE  # 1 menit
 CHECK_INTERVAL = 60  # detik (cek setiap 1 menit)
 
